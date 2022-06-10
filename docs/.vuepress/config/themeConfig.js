@@ -46,6 +46,8 @@ module.exports = {
         { text: "Nodejs", link: "/pages/117708e0af7f0bd9/" },
         { text: "Vscode配置", link: "/pages/130882/" },
         { text: "Github", link: "/pages/544a95/" },
+        { text: "Wiki", link: "/pages/506cc2/" },
+        { text: "FFmpeg", link: "/pages/ea667e/" },
       ],
     },
     {
