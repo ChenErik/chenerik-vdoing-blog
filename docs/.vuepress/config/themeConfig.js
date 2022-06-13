@@ -72,6 +72,15 @@ module.exports = {
             },
           ],
         },
+        {
+          text: "Windows",
+          items: [
+            {
+              text: "Oh-My-Posh",
+              link: "/pages/6f8931/",
+            },
+          ],
+        },
       ],
     },
     {
